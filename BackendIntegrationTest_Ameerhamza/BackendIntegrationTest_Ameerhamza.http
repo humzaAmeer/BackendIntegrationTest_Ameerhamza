@@ -1,0 +1,6 @@
+@BackendIntegrationTest_Ameerhamza_HostAddress = http://localhost:5185
+
+GET {{BackendIntegrationTest_Ameerhamza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
